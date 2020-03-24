@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-Pt"
-title                    : #"Joana P Neto"
+title                    : "Joana P Neto"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : #"Joana P Neto"
@@ -98,6 +98,8 @@ author:
   bio              : "PhD"
   location         : "Lisbon, Portugal"
   email            : "joanasneto@gmail.com"
+  github           : "JoanaPNeto"
+  linkedin         : "joana-neto-447b4528"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
