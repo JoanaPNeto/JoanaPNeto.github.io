@@ -7,7 +7,7 @@ header:
 
 ## Preprints
 
-*Transparent and flexible ECoG electrode arrays based on silver nanowire networks for neural recordings*
+*Transparent and flexible ECoG electrode arrays based on silver nanowire networks for neural recordings.*
 **Neto, J. P.**, Costa, A., Pinto, J. V., Marques-Smith, A., Costa, J., Martins, R., … Barquinha, P.
 biorxiv, 2020. [https://www.biorxiv.org/content/10.1101/2020.02.24.962878v1](https://www.biorxiv.org/content/10.1101/2020.02.24.962878v1)
 
@@ -17,7 +17,7 @@ Dimitriadis*, G., **Neto*, J. P.**, Aarts, A., Alexandru, A., Ballini, M., Batta
 biorxiv, 2018. [https://www.biorxiv.org/content/10.1101/275818v8](https://www.biorxiv.org/content/10.1101/275818v8)
 
 
-*Recording from the same neuron with high-density CMOS probes and patch-clamp: a ground-truth dataset and an experiment in collaboration*
+*Recording from the same neuron with high-density CMOS probes and patch-clamp: a ground-truth dataset and an experiment in collaboration.*
 Marques-Smith, A., **Neto, J. P.**, Lopes, G., Nogueira, J., Calcaterra, L., Frazão, J., … Kampff, A.
 biorxiv, 2018. [https://www.biorxiv.org/content/10.1101/370080v2](https://www.biorxiv.org/content/10.1101/370080v2)
 
@@ -49,7 +49,7 @@ In Electroplating of Nanostructures. InTech. [http://doi.org/10.5772/61216](http
 
 
 WO 3 Nanoparticle-Based Conformable pH Sensor.
-Santos*, L., **Neto*, J. P.****, Crespo, A., Nunes, D., Costa, N., Fonseca, I. M., … Fortunato, E. (2014).  
+Santos*, L., **Neto, J. P.**, Crespo, A., Nunes, D., Costa, N., Fonseca, I. M., … Fortunato, E. (2014).  
 ACS Applied Materials & Interfaces, 6(15), 12226–12234. [http://doi.org/10.1021/am501724h](http://doi.org/10.1021/am501724h)
 
 
