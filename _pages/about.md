@@ -17,4 +17,9 @@ With experience in a range of different projects Joana has been assembling knowl
 During her career, the dissemination of the work was achieved through conferences and peer-reviewed journals, participation on open days at research institutes, teaching undergrads and PhD students, and supervising and mentoring master students. 
 Moreover, a great amount of her data was made freely available online to ensure transparency of results and to help to reduce inequality, sharing data with scientists and students in less fortunate positions. 
 
-[CV](https://scholar.google.com/citations?user=csGzJ6EAAAAJ&hl=pt-PT)
+
+[Google Scholar Profile](https://scholar.google.com/citations?user=csGzJ6EAAAAJ&hl=pt-PT)
+[ORCID](https://orcid.org/0000-0001-7237-8916)
+[CiênciaVitae](https://www.cienciavitae.pt//en/C81F-F6ED-E6EB)
+
+You can reach me for any enquiries at joanasneto@gmail.com
