@@ -8,17 +8,17 @@ header:
 ## Preprints
 
 *Transparent and flexible ECoG electrode arrays based on silver nanowire networks for neural recordings*
-Joana P. Neto*; Adriana Costa; Joana Vaz Pinto; André Marques-Smith; Júlio Costa; Rodrigo Martins; Elvira Fortunato; Adam R. Kampff; Pedro Barquinha
+**Neto, J. P.**, Costa, A., Pinto, J. V., Marques-Smith, A., Costa, J., Martins, R., … Barquinha, P.
 biorxiv, 2020. [https://www.biorxiv.org/content/10.1101/2020.02.24.962878v1](https://www.biorxiv.org/content/10.1101/2020.02.24.962878v1)
 
 
 *Why not record from every channel with a CMOS scanning probe?*
-George Dimitriadis*; Joana P. Neto*; Arno Aarts; Andrei Alexandru; Marco Ballini; Francesco Battaglia; Lorenza Calcaterra; et al.
+Dimitriadis*, G., **Neto*, J. P.**, Aarts, A., Alexandru, A., Ballini, M., Battaglia, F., … Kampff, A. R. 
 biorxiv, 2018. [https://www.biorxiv.org/content/10.1101/275818v8](https://www.biorxiv.org/content/10.1101/275818v8)
 
 
 *Recording from the same neuron with high-density CMOS probes and patch-clamp: a ground-truth dataset and an experiment in collaboration*
-André Marques-Smith; Joana P. Neto; Gonçalo Lopes; Joana Nogueira; Lorenza Calcaterra; João Frazão; Danbee Kim; et al.
+Marques-Smith, A., **Neto, J. P.**, Lopes, G., Nogueira, J., Calcaterra, L., Frazão, J., … Kampff, A.
 biorxiv, 2018. [https://www.biorxiv.org/content/10.1101/370080v2](https://www.biorxiv.org/content/10.1101/370080v2)
 
 ## Papers 
