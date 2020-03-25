@@ -6,8 +6,8 @@ header:
 ---
 #Microfluidics
 Add image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/Microfluidica/Molde for droplet generator using direct laser writing.jpg" alt="Fig1">
-
+#<img src="{{ site.url }}{{ site.baseurl }}/images/Microfluidica/Molde for droplet generator using direct laser writing.jpg" alt="Fig1">
+![alt]({{ site.url }}{{ site.baseurl }}/images/Microfluidica/Molde for droplet generator using direct laser writing.jpg)
 Some text.....
 
 #Transparent ECoG 
@@ -24,7 +24,7 @@ Some text.....
 
 **bold**
 
-Add image 
+Add image:
 <img src="{{ site.url }}{{ site.baseurl }}/images/photo-bio.jpg" alt="description of figure">
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/photo-bio.jpg)
+
