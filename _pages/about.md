@@ -5,10 +5,16 @@ permalink: /about/
 #  image: "/images/photo-bio.jpg"
 ---
 
-blablbabalbalaba 
+Joana P Neto graduated and received her M.Sc. degree in Biomedical Engineering in 2010 by the University Nova de Lisboa Faculdade de Ciências e Tecnologia. 
+Her master thesis developed within the materials science department in 2011 was awarded by EMRS. In 2018, she received her Ph.D. degree in Nanotechnology and Nanosciences by the University Nova de Lisboa Faculdade de Ciências e Tecnologia. 
+Her PhD project was developed within 3 institutes - Champalimaud Center for the Unknown and CENIMAT/I3N in Portugal, and Sainsbury Wellcome Centre–UCL in United Kingdom. 
+Joana was also a team member of European FP7 Project NeuroSeeker. Thanks to this project, she has collaborated with researchers worldwide. 
+Since 2018, she is a Pos-doc researcher at CENIMAT/I3N.
 
+Throughout her scientific carer, Joana has been mainly interested in interfacing new technology and materials with biomedical applications.
+With experience in a range of different projects Joana has been assembling knowledge and insight from across different disciplines - Materials Science, Nanoscience, Neuroscience, Micro and Nanotechnology, and (Bio)sensors. 
 
-bsjhdjhdhiwpqjd ikjdij
+During her career, the dissemination of the work was achieved through conferences and peer-reviewed journals, participation on open days at research institutes, teaching undergrads and PhD students, and supervising and mentoring master students. 
+Moreover, a great amount of her data was made freely available online to ensure transparency of results and to help to reduce inequality, sharing data with scientists and students in less fortunate positions. 
 
-
-shgdbhjgwdWHEGFJKEBFJFJ
+[link](https://scholar.google.com/citations?user=csGzJ6EAAAAJ&hl=pt-PT)
