@@ -4,12 +4,6 @@ permalink: /projects/
 header:
   image: "/images/frontpage.jpg"
 ---
-## Microfluidics
-Add image:
-
-![alt]({{ site.url }}{{ site.baseurl }}/images/Microfluidica/Molde for droplet generator using direct laser writing.jpg)
-
-Some text.....
 
 ## Transparent ECoG 
 
@@ -19,16 +13,20 @@ Add image:
 
 Some text.....
 
-## Interfacing Materials with Neuroscience 
+## Microfluidics
+Add image:
+
+![alt]({{ site.url }}{{ site.baseurl }}/images/Microfluidica/Molde for droplet generator using direct laser writing.jpg)
+
+Some text.....
+
+## Interfacing Materials and Neuroscience 
 Some text.....
 
 
-## H2 head 
-### H3 head 
+## Biobateries 
+Some text...
 
-*italic*
-
-**bold**
 
 
 
