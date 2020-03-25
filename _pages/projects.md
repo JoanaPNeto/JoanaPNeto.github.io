@@ -5,8 +5,8 @@ header:
   image: "/images/frontpage.jpg"
 ---
 #Microfluidics
-Add image 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Microfluidica/Molde for droplet generator using direct laser writing.jpg" alt="Molde for droplet generator using direct laser writing">
+Add image:
+<img src="{{ site.url }}{{ site.baseurl }}/images/Microfluidica/Molde for droplet generator using direct laser writing.jpg" alt="Fig1">
 
 Some text.....
 
