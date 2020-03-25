@@ -15,7 +15,7 @@ Some text.....
 
 Add image:
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/photo-bio.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/images/TransparentECoG/thalamus_mouse.jpg)
 
 Some text.....
 
