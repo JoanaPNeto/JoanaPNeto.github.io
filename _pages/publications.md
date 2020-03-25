@@ -30,7 +30,7 @@ Working paper published in 2018
 Authors: André Marques-Smith; Joana P. Neto; Gonçalo Lopes; Joana Nogueira; Lorenza Calcaterra; João Frazão; Danbee Kim; et al.
 [biorxiv](https://www.biorxiv.org/content/10.1101/370080v2)
 
-##Papers 
+## Papers 
 
 Validating silicon polytrodes with paired juxtacellular recordings: method and dataset.
 
