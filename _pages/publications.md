@@ -34,7 +34,7 @@ Frontiers in Neuroscience, 12, 715. [http://doi.org/10.3389/FNINS.2018.00715](ht
 
 
 t-SNE Visualization of Large-Scale Neural Recordings.
-Dimitriadis*, G., **Neto*, J. P.**, & Kampff, A. R. (2018). 
+Dimitriadis*, G., **Neto, J. P.**, & Kampff, A. R. (2018). 
 Neural Computation, 1–25. [http://doi.org/10.1162/neco_a_01097](http://doi.org/10.1162/neco_a_01097)
 
 
@@ -49,7 +49,7 @@ In Electroplating of Nanostructures. InTech. [http://doi.org/10.5772/61216](http
 
 
 WO 3 Nanoparticle-Based Conformable pH Sensor.
-Santos*, L., **Neto*, J. P.**, Crespo, A., Nunes, D., Costa, N., Fonseca, I. M., … Fortunato, E. (2014).  
+Santos*, L., **Neto*, J. P.****, Crespo, A., Nunes, D., Costa, N., Fonseca, I. M., … Fortunato, E. (2014).  
 ACS Applied Materials & Interfaces, 6(15), 12226–12234. [http://doi.org/10.1021/am501724h](http://doi.org/10.1021/am501724h)
 
 
