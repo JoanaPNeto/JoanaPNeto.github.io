@@ -77,5 +77,11 @@ The dataset, as well as basic analysis scripts, can be downloaded [here](https:/
 How small is too small (for extracellular electrodes)? How dense is too dense (for polytrode arrays)? Does the optimal size and density of electrodes depend on the brain region recorded?
 To help address these questions, we collected a survey of recordings from many different brain areas using an ultra-high density array of small extracellular electrodes (5 micron electrodes packed into a 17x15 array).
 Yes, that is >250 electrodes crammed into the cross-section of a human hair.
-The survey data is available [here](https://www.kampff-lab.org/ultra-dense-survey) or [here]()
+The survey data is available [here](https://www.kampff-lab.org/ultra-dense-survey) or [here](https://crcns.org/data-sets/methods)
+
+
+*Validating electrodes*
+"Ground-Truth" data from silicon polytrodes. To gather validation data, for which we know when a neuron nearby the extracellular probe is active, we developed a technique for "paired recordings" (manuscript draft). We use high accuracy, optically-calibrated mechanical manipulators to position two probes, the extracellular device and a glass micro-pipette capable of isolating a single neuron, at the same location in the brain. The signals recorded with both probes can then be used to cross-validate one another. The pipette (juxtacellular) recording tells us exactly when one neuron is active and the challenge is to detect and isolate (i.e. "sort") this neuron's signal from all of the others seen by the extracellular polytrode. Data from these recordings can be obtained below. A summary of the current (and ever expanding dataset) is available [here](https://www.kampff-lab.org/validating-electrodes) or [here](https://crcns.org/data-sets/methods)
+
+
 
