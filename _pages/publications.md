@@ -8,18 +8,18 @@ header:
 ## Preprints
 
 *Transparent and flexible ECoG electrode arrays based on silver nanowire networks for neural recordings.*
-**Neto, J. P.**, Costa, A., Pinto, J. V., Marques-Smith, A., Costa, J., Martins, R., … Barquinha, P.
-biorxiv, 2020. [https://www.biorxiv.org/content/10.1101/2020.02.24.962878v1](https://www.biorxiv.org/content/10.1101/2020.02.24.962878v1)
+**Neto, J. P.**, Costa, A., Pinto, J. V., Marques-Smith, A., Costa, J., Martins, R., … Barquinha, P. (2020).
+biorxiv [https://www.biorxiv.org/content/10.1101/2020.02.24.962878v1](https://www.biorxiv.org/content/10.1101/2020.02.24.962878v1)
 
 
 *Why not record from every channel with a CMOS scanning probe?*
-Dimitriadis*, G., **Neto, J. P.**, Aarts, A., Alexandru, A., Ballini, M., Battaglia, F., … Kampff, A. R. 
-biorxiv, 2018. [https://www.biorxiv.org/content/10.1101/275818v8](https://www.biorxiv.org/content/10.1101/275818v8)
+Dimitriadis*, G., **Neto, J. P.**, Aarts, A., Alexandru, A., Ballini, M., Battaglia, F., … Kampff, A. R. (2018).
+biorxiv [https://www.biorxiv.org/content/10.1101/275818v8](https://www.biorxiv.org/content/10.1101/275818v8)
 
 
 *Recording from the same neuron with high-density CMOS probes and patch-clamp: a ground-truth dataset and an experiment in collaboration.*
-Marques-Smith, A., **Neto, J. P.**, Lopes, G., Nogueira, J., Calcaterra, L., Frazão, J., … Kampff, A.
-biorxiv, 2018. [https://www.biorxiv.org/content/10.1101/370080v2](https://www.biorxiv.org/content/10.1101/370080v2)
+Marques-Smith, A., **Neto, J. P.**, Lopes, G., Nogueira, J., Calcaterra, L., Frazão, J., … Kampff, A. (2018).
+biorxiv [https://www.biorxiv.org/content/10.1101/370080v2](https://www.biorxiv.org/content/10.1101/370080v2)
 
 ## Papers 
 
