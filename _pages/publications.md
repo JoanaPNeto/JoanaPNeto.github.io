@@ -13,7 +13,7 @@ biorxiv, 2020. [https://www.biorxiv.org/content/10.1101/2020.02.24.962878v1](htt
 
 
 *Why not record from every channel with a CMOS scanning probe?*
-Dimitriadis*, G., **Neto*, J. P.**, Aarts, A., Alexandru, A., Ballini, M., Battaglia, F., … Kampff, A. R. 
+Dimitriadis*, G., **Neto, J. P.**, Aarts, A., Alexandru, A., Ballini, M., Battaglia, F., … Kampff, A. R. 
 biorxiv, 2018. [https://www.biorxiv.org/content/10.1101/275818v8](https://www.biorxiv.org/content/10.1101/275818v8)
 
 
