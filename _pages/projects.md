@@ -13,8 +13,13 @@ hjsfdhfsdhfjkfdjk
 
 jkehfjfdhfhjfhjfrj
 
+#H1 head
+## H2 head 
+### H3 head 
 
+*italic*
 
+**bold**
 
 
 
