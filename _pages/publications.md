@@ -68,14 +68,17 @@ Sensors and Actuators B: Chemical, 223, 186–194. [http://doi.org/10.1016/j.snb
 Widely used technology for fabricating modern devices, the CMOS technology, was used to fabricate a neural probe with 1344 electrodes arranged along 8 mm of a thin shaft. A dataset with the highest density and number of electrodes in a silicon probe ever achieved in the history of neuroscience for *in vivo* recordings is now available [here](https://www.kampff-lab.org/cmos-scanning) 
 
 
+
 *Polytrode impedance*
 
 To help resolve whether the impedance of an electrode matters for recording neural activity with a modern silicon probe, we collected a dataset in which neighboring electrodes within a dense array had a 10-fold difference in impedance. These recordings allow direct comparison of the same neural signal measured with a low and high impedance electrode. The dataset, as well as basic analysis scripts, can be downloaded [here](https://www.kampff-lab.org/polytrode-impedance) and [here](https://crcns.org/data-sets/methods)
 
 
+
 *Ultra Dense Extracellular Survey*
 
 CMOS technology allows the fabrication of electrodes with sub-cellular dimensions, smaller than a neuron’s soma (< 10 µm). How small and closely-packed must one make extracellular electrodes? Does the optimal size and density of electrodes depend on the brain region recorded? To help address these questions, we collected a survey of recordings from different brain areas using an ultra-high density array of small extracellular electrodes (5 micron electrodes packed into a 17x15 array). The survey data is available [here](https://www.kampff-lab.org/ultra-dense-survey) or [here](https://crcns.org/data-sets/methods)
+
 
 
 *Validating electrodes*
