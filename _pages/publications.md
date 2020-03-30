@@ -75,7 +75,7 @@ To help resolve whether the impedance of an electrode matters for recording neur
 
 ### Ultra Dense Extracellular Survey
 
-CMOS technology allows the fabrication of electrodes with sub-cellular dimensions, smaller than a neuron’s soma (< 10 µm). How small and closely-packed must one make extracellular electrodes? Does the optimal size and density of electrodes depend on the brain region recorded? To help address these questions, we collected a survey of recordings from different brain areas using an ultra-high density array of small extracellular electrodes (5 micron electrodes packed into a 17x15 array). The survey data is available [here](https://www.kampff-lab.org/ultra-dense-survey) or [here](https://crcns.org/data-sets/methods)
+CMOS technology allows the fabrication of electrodes with sub-cellular dimensions, smaller than a neuron’s soma (< 10 µm). How small and closely-packed must one make extracellular electrodes? Does the optimal size and density of electrodes depend on the brain region recorded? To help address these questions, we collected a survey of recordings from different brain areas using an ultra-high density array of small extracellular electrodes (5 µm electrodes packed into a 17x15 array). The survey data is available [here](https://www.kampff-lab.org/ultra-dense-survey) or [here](https://crcns.org/data-sets/methods)
 
 
 ### Validating electrodes
