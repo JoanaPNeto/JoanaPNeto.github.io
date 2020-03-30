@@ -54,9 +54,10 @@ During my PhD, I explored the electrodeposition thecnique at Cenimat/I3N, showin
 ## Biobateries 
 
 *Polycaprolactone microfibers for sustainable power source applications*
+![alt]({{ site.url }}{{ site.baseurl }}/images/Biobatteries/PCL.jpg)
 2010
 
-This was my MSc project. A liquid-activated power source based on a flexible and thin electrospun polycaprolactone (PCL) membrane is designed for harvesting energy when in contact with biofluids, targeting healthcare energy powering applications. The PCL membrane separate two electrodes: an oxidizing electrode (anode) and a reducing electrode (cathode). The PCL membrane contributes to the efficiency of the charge generation processes that occur at the electrodes and the charge transport across the electrolyte. 
+This was my MSc project. A liquid-activated power source based on a flexible and thin electrospun polycaprolactone (PCL) membrane is designed for harvesting energy when in contact with biofluids, targeting healthcare energy powering applications. The PCL membrane separate two electrodes: an oxidizing electrode (anode) and a reducing electrode (cathode). The PCL membrane contributes to the efficiency of the charge generation processes that occur at the electrodes and the charge transport across the electrolyte. The presence of SPBF leads to a stable and reversible electrochemical behavior (anodic and cathodic peaks at ± 0.18 V are attributed to redox reactions at the terminal C-OH groups of the microfibers) that is highly dependent on the surface area and the interconnected pore structure of the PCL electrospun membrane. 
 
 
 
