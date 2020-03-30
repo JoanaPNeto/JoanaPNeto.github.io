@@ -11,14 +11,14 @@ header:
 2018
 ![alt]({{ site.url }}{{ site.baseurl }}/images/TransparentECoG/projecto1.jpg)
 
-In 2018 I have started to explore, as a PosDoctoral Research Scientist in CENIMAT/I3N and Sainsbury Welcome Centre, new transparent materials for extracellular electrodes. The goal of this project is to fabricate large-scale, high-density transparent and flexible electrode arrays, that combine the superior temporal resolution of extracellular electrophysiology with the spatial resolution offered by optical imaging. This project will explore the electrical, optical, and mechanical properties of emerging transparent conductive materials for developing high-performance and low-cost electrocorticography (ECoG) electrode arrays. The validation of new transparent ECoG will be performed in vivo by combining extracellular recordings with functional calcium imaging. Currently, I’m supervising a master student, wich the topic is *Transparent and flexible ECoG electrode arrays of metallic nanostructures for neural recordings*. 
+In 2018 I have started to explore, as a PosDoctoral Research Scientist in CENIMAT/I3N and Sainsbury Welcome Centre, new transparent materials for extracellular electrodes. The goal of this project is to fabricate large-scale, high-density transparent and flexible electrode arrays, that combine the superior temporal resolution of extracellular electrophysiology with the spatial resolution offered by optical imaging. This project will explore the electrical, optical, and mechanical properties of emerging transparent conductive materials for developing high-performance and low-cost electrocorticography (ECoG) electrode arrays. The validation of new transparent ECoG will be performed in vivo by combining extracellular recordings with functional calcium imaging. Currently, I’m supervising a master student, in collaboration with Hugo Marques from Champalimaud Neuroscience Program, working on *Transparent and flexible ECoG electrode arrays of metallic nanostructures for neural recordings*. 
 
 
 ## Ultra-thin and conformable Parylene-based circuitry 
 2018
 ![alt]({{ site.url }}{{ site.baseurl }}/images/Parylene/projecto3.jpg)
 
-Parylene membranes (1 to 5 µm thick) are biocompatible and compatible with standard microfabrication processes (e.g., photolitography). In collaboration with Professor Joana Vaz Pinto working at CENIMAT/I3N, we were able to fabricate on ultra-thin Parylene membranes- TFTs, MIM, Resistors, Capacitors, temperature and UV sensors, as well as RFID antennas. We co-supervise several master students working in this subject - (1)Development of temperature sensor arrays in ultrathin membranes of Parylene, (2)Development of of Temperature sensors in Parylene membranes, (3)Integration of IC temperature sensors in conformable membranes of Parylene, (4)Fabrication of RFID antennas in Parylene membranes for wearables, and (5)Fabrication of UV sensors in Parylene membranes for wearables. 
+Parylene membranes (1 to 5 µm thick) are biocompatible and compatible with standard microfabrication processes (e.g., photolitography). In collaboration with Professor Joana Vaz Pinto working at CENIMAT/I3N, we were able to fabricate on ultra-thin Parylene membranes- TFTs, MIM, Resistors, Capacitors, temperature and UV sensors, as well as RFID antennas. We co-supervise several master students working in this subject - (1)*Development of temperature sensor arrays in ultrathin membranes of Parylene*, (2)*Development of of Temperature sensors in Parylene membranes*, (3)*Integration of IC temperature sensors in conformable membranes of Parylene*, (4)*Fabrication of RFID antennas in Parylene membranes for wearables*, and (5)*Fabrication of UV sensors in Parylene membranes for wearables.* 
 
 
 ## Microfluidics
@@ -48,7 +48,11 @@ During my PhD, I explored the electrodeposition thecnique at Cenimat/I3N, showin
 
 
 ## Biobateries 
+*Production and characterization of biobatteries made from microfibers*
 2010
+
+
+This was my MSc project.
 
 
 
