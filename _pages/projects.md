@@ -15,6 +15,7 @@ In 2018 I have started to explore, as a PosDoctoral Research Scientist in CENIMA
 
 
 ## Ultra-thin and conformable Parylene-based circuitry 
+
 2018
 ![alt]({{ site.url }}{{ site.baseurl }}/images/Parylene/projecto3.jpg)
 
@@ -22,6 +23,7 @@ Parylene membranes (1 to 5 µm thick) are biocompatible and compatible with stan
 
 
 ## Microfluidics
+
 *Integrated Microfluidic Device for cancer detection from free circulating DNA using Digital PCR*
 2019
 ![alt]({{ site.url }}{{ site.baseurl }}/images/Microfluidica/Molde for droplet generator using direct laser writing.jpg)
@@ -29,6 +31,7 @@ Parylene membranes (1 to 5 µm thick) are biocompatible and compatible with stan
 In 2019, I've started as Posdoctoral Research Associate at CENIMAT/I3N. The project involves fabricating a microfluidic device for the rapid detection of cancer from circulating free DNA in blood and urine. For effectively addressing the challenges present in this project we must combine different materials and microfabrication technologies, such as direct laser writing (DLW). This novel technology enables a fast fabrication of precise and complex microstructures, which are much more difficult and time demanding to fabricate with standard patterning technologies, like photolithography. Recently, Joana won a Yerun Research Mobility Award to visit Vellekoop Group at Bermen University to explore this technology.      
 
 ## Interfacing Materials and Neuroscience 
+
 *Materials and neuroscience: validating tools for large-scale, high density neural recording*
 2012
 ![alt]({{ site.url }}{{ site.baseurl }}/images/Interfacing Materials and Neuroscience/materialsNeuro.jpg)
@@ -41,6 +44,7 @@ For understanding and improving neural probes, we provided new methods to quanti
 
 
 ## Ph Sensor 
+
 2014
 ![alt]({{ site.url }}{{ site.baseurl }}/images/pHsensor/pHsensor.jpg)
 
@@ -48,9 +52,9 @@ During my PhD, I explored the electrodeposition thecnique at Cenimat/I3N, showin
 
 
 ## Biobateries 
+
 *Production and characterization of biobatteries made from microfibers*
 2010
-
 
 This was my MSc project.
 
