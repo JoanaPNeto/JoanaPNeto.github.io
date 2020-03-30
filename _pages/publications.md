@@ -80,8 +80,8 @@ CMOS technology allows the fabrication of electrodes with sub-cellular dimension
 
 ### Validating electrodes
 
-"Ground-Truth" data from silicon polytrodes (32 and 128 electrodes). To gather validation data, for which we know when a neuron nearby the extracellular probe is active, we developed a technique for "paired recordings". We use high accuracy, optically-calibrated mechanical manipulators to position two probes, the extracellular device and a glass micro-pipette capable of isolating a single neuron, at the same location in the brain. The signals recorded with both probes can then be used to cross-validate one another. The pipette (juxtacellular) recording tells us exactly when one neuron is active and the challenge is to detect and isolate (i.e. "sort") this neuron's signal from all of the others seen by the extracellular polytrode. A summary of the current is available [here](https://www.kampff-lab.org/validating-electrodes) or [here](https://crcns.org/data-sets/methods)
-Moreover, a recent "Ground-Truth" dataset using Neuropixel probes is also available [here](https://crcns.org/data-sets/methods) 
+"Ground-Truth" data from silicon polytrodes (32 and 128 electrodes). To gather validation data, for which we know when a neuron nearby the extracellular probe is active, we developed a technique for "paired recordings". We use high accuracy, optically-calibrated mechanical manipulators to position two probes, the extracellular device and a glass micro-pipette capable of isolating a single neuron, at the same location in the brain. The signals recorded with both probes can then be used to cross-validate one another. The pipette (juxtacellular) recording tells us exactly when one neuron is active and the challenge is to detect and isolate (i.e. "sort") this neuron's signal from all of the others seen by the extracellular polytrode. A summary of the current is available [here](https://www.kampff-lab.org/validating-electrodes) or [here](https://crcns.org/data-sets/methods).
+Moreover, the most recent "Ground-Truth" dataset using Neuropixel probes is also available [here](https://crcns.org/data-sets/methods) 
 
 
 
