@@ -16,8 +16,9 @@ The goal of this project is to fabricate large-scale, high-density transparent a
 
 ## Ultra-thin and conformable Parilene-based circuitry 
 
-Parylene membranes ( 1 to 5 µm thick)
+![alt]({{ site.url }}{{ site.baseurl }}/images/Parylene/projecto3.jpg)
 
+Parylene membranes ( 1 to 5 µm thick) are biocompatible and compatible with standard microfabrication processes (e.g., photolitography). In collaboration with Professor Joana Vaz Pinto and some master students, we were able to fabricate TFTs, MIM, Resistors, Capacitors, temperature and UV sensors, as well as RFID antennas.    
 
 
 ## Microfluidics
