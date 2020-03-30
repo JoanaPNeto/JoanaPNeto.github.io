@@ -14,11 +14,11 @@ header:
 The goal of this project is to fabricate large-scale, high-density transparent and flexible electrode arrays, that combine the superior temporal resolution of extracellular electrophysiology with the spatial resolution offered by optical imaging. This project will explore the electrical, optical, and mechanical properties of emerging transparent conductive materials for developing high-performance and low-cost electrocorticography (ECoG) electrode arrays. The validation of new transparent ECoG will be performed in vivo by combining extracellular recordings with functional calcium imaging.
 
 
-## Ultra-thin and conformable Parilene-based circuitry 
+## Ultra-thin and conformable Parylene-based circuitry 
 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/Parylene/projecto3.jpg)
 
-Parylene membranes ( 1 to 5 µm thick) are biocompatible and compatible with standard microfabrication processes (e.g., photolitography). In collaboration with Professor Joana Vaz Pinto and some master students, we were able to fabricate TFTs, MIM, Resistors, Capacitors, temperature and UV sensors, as well as RFID antennas.    
+Parylene membranes ( 1 to 5 µm thick) are biocompatible and compatible with standard microfabrication processes (e.g., photolitography). In collaboration with Professor Joana Vaz Pinto and master students, we were able to fabricate on thin Parylene membranes- TFTs, MIM, Resistors, Capacitors, temperature and UV sensors, as well as RFID antennas.    
 
 
 ## Microfluidics
