@@ -64,24 +64,20 @@ Sensors and Actuators B: Chemical, 223, 186–194. [http://doi.org/10.1016/j.snb
 ## Datasets
 
 *CMOS scanning probe*
-Did you know that you can embed a scanning circuit into the 100x50 micron shaft of an implantable neural probe? Yes, you can...and this means that you can simultaneously record from all the electrodes on the shaft (currently 1356) and generate huge piles of data.
-One of these data piles is available [here](https://www.kampff-lab.org/cmos-scanning) 
+Widely used technology for fabricating modern devices, the CMOS technology, was used to fabricate a neural probe with 1344 electrodes arranged along 8 mm of a thin shaft. A dataset with the highest density and number of electrodes in a silicon probe ever achieved in the history of neuroscience for *in vivo* recordings is now available [here](https://www.kampff-lab.org/cmos-scanning) 
 
 
 *Polytrode impedance*
-Somehow this question won't go away. To help resolve whether the impedance of an electrode matters for recording neural activity with a modern polytrode, we collected a dataset in which neighboring electrodes within a dense array had a 10-fold difference in impedance. These recordings allow direct comparison of the same neural signal measured with a low and high impedance electrode.
-The dataset, as well as basic analysis scripts, can be downloaded [here](https://www.kampff-lab.org/polytrode-impedance) and [here](https://crcns.org/data-sets/methods)
+To help resolve whether the impedance of an electrode matters for recording neural activity with a modern silicon probe, we collected a dataset in which neighboring electrodes within a dense array had a 10-fold difference in impedance. These recordings allow direct comparison of the same neural signal measured with a low and high impedance electrode. The dataset, as well as basic analysis scripts, can be downloaded [here](https://www.kampff-lab.org/polytrode-impedance) and [here](https://crcns.org/data-sets/methods)
 
 
 *Ultra Dense Extracellular Survey*
-How small is too small (for extracellular electrodes)? How dense is too dense (for polytrode arrays)? Does the optimal size and density of electrodes depend on the brain region recorded?
-To help address these questions, we collected a survey of recordings from many different brain areas using an ultra-high density array of small extracellular electrodes (5 micron electrodes packed into a 17x15 array).
-Yes, that is >250 electrodes crammed into the cross-section of a human hair.
-The survey data is available [here](https://www.kampff-lab.org/ultra-dense-survey) or [here](https://crcns.org/data-sets/methods)
+CMOS technology allows the fabrication of electrodes with sub-cellular dimensions, smaller than a neuron’s soma (< 10 µm). How small and closely-packed must one make extracellular electrodes? Does the optimal size and density of electrodes depend on the brain region recorded? To help address these questions, we collected a survey of recordings from different brain areas using an ultra-high density array of small extracellular electrodes (5 micron electrodes packed into a 17x15 array). The survey data is available [here](https://www.kampff-lab.org/ultra-dense-survey) or [here](https://crcns.org/data-sets/methods)
 
 
 *Validating electrodes*
-"Ground-Truth" data from silicon polytrodes. To gather validation data, for which we know when a neuron nearby the extracellular probe is active, we developed a technique for "paired recordings" (manuscript draft). We use high accuracy, optically-calibrated mechanical manipulators to position two probes, the extracellular device and a glass micro-pipette capable of isolating a single neuron, at the same location in the brain. The signals recorded with both probes can then be used to cross-validate one another. The pipette (juxtacellular) recording tells us exactly when one neuron is active and the challenge is to detect and isolate (i.e. "sort") this neuron's signal from all of the others seen by the extracellular polytrode. Data from these recordings can be obtained below. A summary of the current (and ever expanding dataset) is available [here](https://www.kampff-lab.org/validating-electrodes) or [here](https://crcns.org/data-sets/methods)
+"Ground-Truth" data from silicon polytrodes (32 and 128 electrodes). To gather validation data, for which we know when a neuron nearby the extracellular probe is active, we developed a technique for "paired recordings". We use high accuracy, optically-calibrated mechanical manipulators to position two probes, the extracellular device and a glass micro-pipette capable of isolating a single neuron, at the same location in the brain. The signals recorded with both probes can then be used to cross-validate one another. The pipette (juxtacellular) recording tells us exactly when one neuron is active and the challenge is to detect and isolate (i.e. "sort") this neuron's signal from all of the others seen by the extracellular polytrode. A summary of the current is available [here](https://www.kampff-lab.org/validating-electrodes) or [here](https://crcns.org/data-sets/methods)
+Moreover, a recent "Ground-Truth" dataset using Neuropixel probes is also available [here](https://crcns.org/data-sets/methods) 
 
 
 
