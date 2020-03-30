@@ -53,10 +53,11 @@ During my PhD, I explored the electrodeposition thecnique at Cenimat/I3N, showin
 
 ## Biobateries 
 
-*Production and characterization of biobatteries made from microfibers*
+*Polycaprolactone microfibers for sustainable power source applications*
 2010
 
-This was my MSc project.
+This was my MSc project. A liquid-activated power source based on a flexible and thin electrospun polycaprolactone (PCL) membrane is designed for harvesting energy when in contact with biofluids, targeting healthcare energy powering applications. The PCL membrane separate two electrodes: an oxidizing electrode (anode) and a reducing electrode (cathode). The PCL membrane contributes to the efficiency of the charge generation processes that occur at the electrodes and the charge transport across the electrolyte. 
+
 
 
 
