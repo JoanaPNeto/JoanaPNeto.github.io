@@ -7,11 +7,14 @@ header:
 
 ## Transparent ECoG 
 
-Add image:
+*Transparent and flexible electrode arrays for large-scale neural recordings with high spatial and temporal resolution*
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/TransparentECoG/thalamus_mouse.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/images/TransparentECoG/projecto1.jpg)
 
-Some text.....
+The goal of this project is to fabricate large-scale, high-density transparent and flexible electrode arrays based on
+metallic nanostructures, that combine the superior temporal resolution of extracellular electrophysiology with the
+spatial resolution offered by optical imaging. This project will explore the electrical, optical, and mechanical properties of emerging transparent conductive materials for developing high-performance and low-cost electrocorticography (ECoG) electrode arrays. The validation of new transparent ECoG will be performed in vivo by combining extracellular recordings with functional calcium imaging.
+
 
 ## Microfluidics
 Add image:
