@@ -32,6 +32,14 @@ The project involves fabricating a microfluidic device for the rapid detection o
 *Materials and neuroscience: validating tools for large-scale, high density neural recording*
 2016
 ![alt]({{ site.url }}{{ site.baseurl }}/images/Interfacing Materials and Neuroscience/materialsNeuro.jpg)
+This project was developed in the context of my PhD. Extracellular recording remains the only technique capable of measuring the activity of many neurons simultaneously with a sub-millisecond precision, in multiple brain areas, including deep structures. Nevertheless, many questions about the nature of the detected signal and the limitations/capabilities of this technique remain unanswered.
+
+*“What contributes to the amplitude of action potentials as well as the background noise? Can we improve data quality by electrodes design choice (e.g., impedance and size)? How will these be reflected in the subsequent sorting analysis? What arrangement of electrodes is optimal for isolating individual neurons from background noise? How can we validate probes with different electrode configurations and different sorting algorithms? How can we achieve the full potential of large-scale, high-density extracellular recordings?”*
+
+For understanding and improving neural probes, we provided new methods to quantify their performance, as well as new validation datasets. All data was made freely available online. These datasets have been used by several groups to publish in top-ranked journals, contributing to the advancement of knowledge. Moreover, extracellular neural probes have made a big step towards the large-scale, high-density extracellular recordings. In collaboration with the European Project NeuroSeeker, we validated a CMOS-based probe with 1344 electrodes allowing the simultaneous recording of more than 1000 neurons spanning different brain regions. We also presented new methods for visualizing and analysing big neural data. Additionally, given the ever-shrinking dimensions of CMOS technology it is now possible to fabricate sub-cellular electrodes (< 10 µm). How small and closely-packed can one make extracellular microelectrodes? 
+
+
+ 
 
 
 
