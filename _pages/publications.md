@@ -65,7 +65,7 @@ Sensors and Actuators B: Chemical, 223, 186–194. [http://doi.org/10.1016/j.snb
 
 ### CMOS scanning probe
 
-Widely used technology for fabricating modern devices, the CMOS technology, was used to fabricate a neural probe with 1344 electrodes arranged along 8 mm of a thin shaft. A dataset with the highest density and number of electrodes in a silicon probe ever achieved in the history of neuroscience for *in vivo* recordings is now available [here](https://www.kampff-lab.org/cmos-scanning) 
+Widely used technology for fabricating modern devices, the CMOS technology, was used to fabricate a neural probe with 1344 electrodes arranged along 8 mm of a thin shaft. In vivo recordings with the highest density and number of electrodes ever achieved in the history of neuroscience are now available [here](https://www.kampff-lab.org/cmos-scanning) 
 
 
 ### Polytrode impedance
