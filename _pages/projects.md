@@ -7,7 +7,6 @@ header:
 
 ## Transparent ECoG 
 
-*Transparent and flexible electrode arrays for large-scale neural recordings with high spatial and temporal resolution*
 2018
 ![alt]({{ site.url }}{{ site.baseurl }}/images/TransparentECoG/projecto1.jpg)
 
@@ -17,14 +16,13 @@ In 2018 I have started to explore, as a PosDoctoral Research Scientist in CENIMA
 ## Ultra-thin and conformable Parylene-based circuitry 
 
 2018
-![alt]({{ site.url }}{{ site.baseurl }}/images/Parylene/projecto3.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/images/Parylene/parylene.jpg)
 
 Parylene membranes (1 to 5 µm thick) are biocompatible and compatible with standard microfabrication processes (e.g., photolitography). In collaboration with Professor Joana Vaz Pinto working at CENIMAT/I3N, we were able to fabricate on ultra-thin Parylene membranes- TFTs, MIM, Resistors, Capacitors, temperature and UV sensors, as well as RFID antennas. We co-supervise several master students working in this subject - (1)*Development of temperature sensor arrays in ultrathin membranes of Parylene*, (2)*Development of of Temperature sensors in Parylene membranes*, (3)*Integration of IC temperature sensors in conformable membranes of Parylene*, (4)*Fabrication of RFID antennas in Parylene membranes for wearables*, and (5)*Fabrication of UV sensors in Parylene membranes for wearables.* 
 
 
 ## Microfluidics
 
-*Integrated Microfluidic Device for cancer detection from free circulating DNA using Digital PCR*
 2019
 ![alt]({{ site.url }}{{ site.baseurl }}/images/Microfluidica/Molde for droplet generator using direct laser writing.jpg)
 
@@ -53,11 +51,10 @@ During my PhD, I explored the electrodeposition thecnique at Cenimat/I3N, showin
 
 ## Biobateries 
 
-*Polycaprolactone microfibers for sustainable power source applications*
-![alt]({{ site.url }}{{ site.baseurl }}/images/Biobatteries/PCL.jpg)
 2010
+![alt]({{ site.url }}{{ site.baseurl }}/images/Biobatteries/PCL.jpg)
 
-This was my MSc project. A liquid-activated power source based on a flexible and thin electrospun polycaprolactone (PCL) membrane is designed for harvesting energy when in contact with biofluids, targeting healthcare energy powering applications. The PCL membrane separate two electrodes: an oxidizing electrode (anode) and a reducing electrode (cathode). The PCL membrane contributes to the efficiency of the charge generation processes that occur at the electrodes and the charge transport across the electrolyte. The presence of SPBF leads to a stable and reversible electrochemical behavior (anodic and cathodic peaks at ± 0.18 V are attributed to redox reactions at the terminal C-OH groups of the microfibers) that is highly dependent on the surface area and the interconnected pore structure of the PCL electrospun membrane. 
+This was my MSc project. A liquid-activated power source based on a flexible and thin electrospun polycaprolactone (PCL) membrane is designed for harvesting energy when in contact with biofluids, targeting healthcare energy powering applications. The PCL membrane separates two electrodes: an oxidizing electrode (anode) and a reducing electrode (cathode). Moreover, the PCL membrane contributes to the efficiency of the charge generation processes that occur at the electrodes and the charge transport across the electrolyte. The presence of biofluidis leads to a stable and reversible electrochemical behavior (redox reactions at terminal C-OH groups of the microfibers at ± 0.18 V) that is highly dependent on the surface area and the interconnected pore structure of the PCL electrospun membrane. 
 
 
 
