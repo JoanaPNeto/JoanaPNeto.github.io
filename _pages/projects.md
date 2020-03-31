@@ -31,7 +31,7 @@ In 2019, I've started to work in this project as Posdoctoral Research Associate 
 ## Interfacing Materials and Neuroscience 
 
 *2012*
-![alt]({{ site.url }}{{ site.baseurl }}/images/Interfacing Materials and Neuroscience/materialsNeuro.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/images/InterfacingMaterialsandNeuroscience/materialsNeuro.jpg)
 
 This was my PhD project. Extracellular recording remains the only technique capable of measuring the activity of many neurons simultaneously with a sub-millisecond precision, in multiple brain areas, including deep structures. Nevertheless, many questions about the nature of the detected signal and the limitations/capabilities of this technique remain unanswered.
 
