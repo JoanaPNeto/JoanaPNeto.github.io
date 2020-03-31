@@ -18,7 +18,7 @@ In 2018 I have started to explore, as a PosDoctoral Research Scientist in CENIMA
 *2018*
 ![alt]({{ site.url }}{{ site.baseurl }}/images/Parylene/parylene.jpg)
 
-Parylene membranes (1 to 5 µm thick) are biocompatible and compatible with standard microfabrication processes (e.g., photolitography). In collaboration with Professor Joana Vaz Pinto working at CENIMAT/I3N, we were able to fabricate on ultra-thin Parylene membranes- TFTs, MIM, Resistors, Capacitors, temperature and UV sensors, as well as RFID antennas. We co-supervise several master students working in this subject - (1)*Development of temperature sensor arrays in ultrathin membranes of Parylene*, (2)*Development of of Temperature sensors in Parylene membranes*, (3)*Integration of IC temperature sensors in conformable membranes of Parylene*, (4)*Fabrication of RFID antennas in Parylene membranes for wearables*, and (5)*Fabrication of UV sensors in Parylene membranes for wearables.* 
+Parylene membranes (1 to 5 µm thick) are biocompatible and compatible with standard microfabrication processes (e.g., photolitography). In collaboration with Professor Joana Vaz Pinto working at CENIMAT/I3N, we were able to fabricate on ultra-thin Parylene membranes- TFTs, MIM, Resistors, Capacitors, temperature and UV sensors, as well as RFID antennas. We co-supervise several master students working on this subject - (1)*Development of temperature sensor arrays in ultrathin membranes of Parylene*, (2)*Development of of Temperature sensors in Parylene membranes*, (3)*Integration of IC temperature sensors in conformable membranes of Parylene*, (4)*Fabrication of RFID antennas in Parylene membranes for wearables*, and (5)*Fabrication of UV sensors in Parylene membranes for wearables.* 
 
 
 ## Microfluidics
