@@ -1,8 +1,8 @@
 ---
 title: "Publications"
 permalink: /publications/
-header:
-  image: "/images/frontpage.jpg"
+#header:
+#  image: "/images/frontpage.jpg"
 ---
 
 ## Preprints
