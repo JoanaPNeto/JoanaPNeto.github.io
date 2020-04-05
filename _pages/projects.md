@@ -1,8 +1,8 @@
 ---
 title: "Projects"
 permalink: /projects/
-header:
-  image: "/images/frontpage.jpg"
+#header:
+#  image: "/images/frontpage.jpg"
 ---
 
 ## Transparent ECoG 
