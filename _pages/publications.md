@@ -7,11 +7,6 @@ permalink: /publications/
 
 ## Preprints
 
-*Transparent and flexible ECoG electrode arrays based on silver nanowire networks for neural recordings.*
-**Neto, J. P.**, Costa, A., Pinto, J. V., Marques-Smith, A., Costa, J., Martins, R., … Barquinha, P. (2020).
-biorxiv [https://www.biorxiv.org/content/10.1101/2020.02.24.962878v1](https://www.biorxiv.org/content/10.1101/2020.02.24.962878v1)
-
-
 *Why not record from every channel with a CMOS scanning probe?*
 Dimitriadis*, G., **Neto, J. P.**, Aarts, A., Alexandru, A., Ballini, M., Battaglia, F., … Kampff, A. R. (2018).
 biorxiv [https://www.biorxiv.org/content/10.1101/275818v8](https://www.biorxiv.org/content/10.1101/275818v8)
@@ -22,6 +17,10 @@ Marques-Smith, A., **Neto, J. P.**, Lopes, G., Nogueira, J., Calcaterra, L., Fra
 biorxiv [https://www.biorxiv.org/content/10.1101/370080v2](https://www.biorxiv.org/content/10.1101/370080v2)
 
 ## Papers 
+
+*Transparent and Flexible Electrocorticography Electrode Arrays Based on Silver Nanowire Networks for Neural Recordings.*
+**Neto, J. P.**, Costa, A., Pinto, J. V., Marques-Smith, A., Costa, J., Martins, R., … Barquinha, P. (2021).
+ACS Applied Nano Materials [https://doi.org/10.1021/acsanm.1c00533](https://pubs.acs.org/doi/10.1021/acsanm.1c00533)
 
 *Validating silicon polytrodes with paired juxtacellular recordings: method and dataset.*
 **Neto, J. P.**, Lopes, G., Frazão, J., Nogueira, J., Lacerda, P., Baião, P., … Kampff, A. R. (2016). 
