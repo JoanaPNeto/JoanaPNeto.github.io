@@ -20,7 +20,7 @@ biorxiv [https://www.biorxiv.org/content/10.1101/370080v2](https://www.biorxiv.o
 
 *Transparent and Flexible Electrocorticography Electrode Arrays Based on Silver Nanowire Networks for Neural Recordings.*
 **Neto, J. P.**, Costa, A., Pinto, J. V., Marques-Smith, A., Costa, J., Martins, R., … Barquinha, P. (2021).
-ACS Applied Nano Materials [https://doi.org/10.1021/acsanm.1c00533](https://pubs.acs.org/doi/10.1021/acsanm.1c00533)
+ACS Applied Nano Materials,4 (6), 5737-5747. [https://doi.org/10.1021/acsanm.1c00533](https://pubs.acs.org/doi/10.1021/acsanm.1c00533)
 
 *Validating silicon polytrodes with paired juxtacellular recordings: method and dataset.*
 **Neto, J. P.**, Lopes, G., Frazão, J., Nogueira, J., Lacerda, P., Baião, P., … Kampff, A. R. (2016). 
